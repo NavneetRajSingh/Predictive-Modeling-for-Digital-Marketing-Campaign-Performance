@@ -1,5 +1,5 @@
 
-# Social Media Campaign Analysis Notebook
+# Predictive Modeling for Digital Marketing Compaign Performance
 
 ## Overview
 This notebook provides a detailed analysis of social media campaign data. It focuses on understanding the impact of various features such as impressions, repost count, total engagements, comment count, and like count on the performance of social media campaigns.
